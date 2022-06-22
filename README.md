@@ -11,10 +11,7 @@ A solution which can evaluate images and alert the dermatologists about the pres
 This project aims to accurately detect melanoma by analyzing images of potentially affected skin areas.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+When class imbalance is rectified, our CNN model's performance in terms of accuracy has increased.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
